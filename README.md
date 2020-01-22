@@ -19,4 +19,4 @@ $ ./gradlew shadowJar
 
 | Plugin | README |
 | ------ | ------ |
-| shadowJar | [https://github.com/johnrengelman/shadow/blob/master/src/docs/configuration/merging/README.md][PlDb] |
+| shadowJar | [https://github.com/johnrengelman/shadow/blob/master/src/docs/configuration/merging/README.md]|
