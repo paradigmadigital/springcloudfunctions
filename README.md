@@ -1,5 +1,5 @@
 # function-microservice
-Applicación Dymmu que devuelve la información de una Empresa.
+Applicación dummy que devuelve la información de una Empresa.
 
 ### Tech
 
